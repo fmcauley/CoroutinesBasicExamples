@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebcc56d-7460-449b-b0dd-c910f3acf623" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
@@ -80,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580396672480</updated>
-      <workItem from="1580396676116" duration="1561000" />
+      <workItem from="1580396676116" duration="1835000" />
     </task>
     <servers />
   </component>
@@ -88,21 +83,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="117" key="GridCell.Tab.0.bottom" timestamp="1580406808111">
+    <state width="1398" height="117" key="GridCell.Tab.0.bottom" timestamp="1580407110183">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="117" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580406808111" />
-    <state width="1398" height="117" key="GridCell.Tab.0.center" timestamp="1580406808109">
+    <state width="1398" height="117" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580407110183" />
+    <state width="1398" height="117" key="GridCell.Tab.0.center" timestamp="1580407110182">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="117" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580406808109" />
-    <state width="1398" height="117" key="GridCell.Tab.0.left" timestamp="1580406808109">
+    <state width="1398" height="117" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580407110182" />
+    <state width="1398" height="117" key="GridCell.Tab.0.left" timestamp="1580407110182">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="117" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580406808109" />
-    <state width="1398" height="117" key="GridCell.Tab.0.right" timestamp="1580406808110">
+    <state width="1398" height="117" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580407110182" />
+    <state width="1398" height="117" key="GridCell.Tab.0.right" timestamp="1580407110182">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="117" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580406808110" />
+    <state width="1398" height="117" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580407110182" />
   </component>
 </project>
