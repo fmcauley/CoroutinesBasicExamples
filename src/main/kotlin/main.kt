@@ -1,14 +1,22 @@
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.*
 import kotlin.concurrent.thread
 
+// Scope builder
 fun main() = runBlocking<Unit> {
-  // making the scope of the coroutine more local
     launch {
-        delay(1000L)
-        println("Word")
+        delay(200L)
+        println("Task from runBlocking")
     }
-    println("Hello,")
+
+    coroutineScope {
+        launch {
+            delay(500L)
+            println("Task from nested launch")
+        }
+
+        delay(100L)
+        println("Task from coroutine scope")
+    }
+    println("Coroutine scope is over")
 }
+
