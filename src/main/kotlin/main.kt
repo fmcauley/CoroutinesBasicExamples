@@ -5,13 +5,10 @@ import kotlinx.coroutines.runBlocking
 import kotlin.concurrent.thread
 
 fun main() = runBlocking<Unit> {
-   // waiting for a job
-
+  // making the scope of the coroutine more local
+    launch {
+        delay(1000L)
+        println("Word")
+    }
     println("Hello,")
-    job.join()
-}
-
-val job = GlobalScope.launch {
-    delay(1000L)
-    println("World!")
 }
